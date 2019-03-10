@@ -14,7 +14,7 @@ Kampus Wóycickiego Bud. 24  11:30 - 13:00 sala 124
 
 * 2019-02-20; Zajęcia odwołane - Wyjazd służbowy  
 * 2019-02-27; Sebastian Zając - Informacje ogólne
-* 2019-03-06; Dominika Barcz - Seminarium "Podróże w czasie" i "Artykuł naukowy"
+* 2019-03-06; 
 * 2019-03-13; 
 * 2019-03-20;
 * 

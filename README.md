@@ -21,4 +21,5 @@ Kampus Wóycickiego Bud. 24  11:30 - 13:00 sala 124
 * 2019-03-13; Przygotowania
 * 2019-03-20; Przygotowania
 * 2019-03-27; 
+* 2019-04-03; Maciej Poncyljusz - praca licencjacka - temat 1
 
